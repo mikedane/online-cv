@@ -1,42 +1,38 @@
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    title: Mike Dane | Portfolio
+    url: 'http://mikedane.github.io/portfolio'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mike Dane
+    tagline: Front-end Engineer / Developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: mikedane94@gmail.com
+    phone: (484)-252-6761
+    website: mikedane.github.io/portfolio #do not add http://
+    linkedin: mike-dane-4618a9104
+    github: mikedane
 
     languages:
         - language:
           idiom: English
           level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Hiking
           link:
         - interest:
-          item: Snowboarding
+          item: Music - Drums, Piano, Guitar
           link:
         - interest:
-          item: Cooking
+          item: Art & Painting
+          link:
+        - interest:
+          item: Eating Pizza
           link:
 
         
@@ -45,99 +41,84 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: Welcome!
+    text: Hey! Welcome to my website, my name's Mike. I'm a 24 year old software developer
+     from Chester County PA, and this website should give you an idea of some of the stuff 
+     I've done, and the stuff I'm currently working on! I love programming, and I especially love
+     writing clean and beautiful code that doesn't look like a glob of spaghetti. I've build several
+     full stack web apps, and worked at a few different companies. I really love user interface design,
+     and front end stuff in general! Take a look for yourself and feel free to contact me with any 
+     questions / offers!
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: MS in Software Engineering
+      university: The University of Scranton
+      time: 2016 - 2017
+      details: "Graduated with a 3.7 GPA"
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BS in Computer Science
+      university: The University of Scranton
+      time: 2012 - 2016
+      details: "President of the Computer Science Honors Society (Upsilon Pi Epsilon)"
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "I love learning new frameworks/languages and building small things
+     that peak my interest. I've done a bunch of stuff with React/Node.js, 
+     and really like working with static site generators. More recently I've been 
+     getting into some mobile app development and having a blast! I have a particular 
+     interest in front-end development & design. I love making websites and apps look 
+     amazing. "
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Giraffe Academy
+        link: "http://www.giraffeacademy.com"
+        tagline: "A really cool static site where I host hundreds of videos and articles I've produced teaching computer programming. I originally built this using Jekyll, but then switched to Hugo. By far my favorite project I've worked on!"
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: Course Wrap
+        link: "http://www.coursewrap.io"
+        tagline: "A React/Node website I built which uses a web-scraper to grab OpenCourseWare course information from some of the world's best colleges & universities who offer OpenCourseWare content. Course Wrap puts all of these free educational resources in one place, and makes them easily searchable. "
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: Crypto Bear
+        link: "http://www.cryptobear.cc"
+        tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lof of time working on the minimalist design of this site, and I'm really happy with it so far!"
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: Bouncy Ball 
+        link: ""
+        tagline: "Search 'Bouncy-Ball Mike Dane' on the iOS App Store. This is a fun little game I built on iOS, there are over 100 levels and I'm really proud of the look and feel of the game. "
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Kelly's Pub & Eatery Website
+        link: "http://www.kpehotwings.com"
+        tagline: "A website I built for my Aunt's restaurant. I used Jekyll along with SCSS to create something simple for them to use!"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: HTML, CSS, JavaScript
+          level: 100%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
+          name: Jekyll, Hugo
           level: 95%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Node.js, React, Redux
+          level: 90%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Ruby, Python, Java
+          level: 90%
+        - skill:
+          name: iOS / Android Development
+          level: 80%
+        - skill:
+          name: Photoshop
+          level: 75%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Copyright 2018 - Mike Dane'
