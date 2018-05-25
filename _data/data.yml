@@ -67,11 +67,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "I love learning new frameworks/languages and building small things
-     that peak my interest. I've done a bunch of stuff with React/Node.js, 
-     and really like working with static site generators. More recently I've been 
-     getting into some mobile app development and having a blast! I have a particular 
-     interest in front-end development & design. I love making websites and apps look 
+    intro: "I love making websites and apps look 
      amazing. "
     
     projects:
