@@ -103,7 +103,7 @@ skills:
           name: Jekyll, Hugo
           level: 95%
         - skill:
-          name: Node.js, React, React Native, Redux
+          name: Node.js, React, Redux
           level: 90%
         - skill:
           name: Ruby, Python, Java, PHP
