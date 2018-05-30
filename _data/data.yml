@@ -85,7 +85,7 @@ projects:
         tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lof of time working on the minimalist design of this site, and I'm really happy with it so far!"
       - project:
         title: Bouncy Ball 
-        link: ""
+        link: "https://itunes.apple.com/us/app/bouncy-ball/id978835139?ls=1&mt=8"
         tagline: "Search 'Bouncy-Ball Mike Dane' on the iOS App Store. This is a fun little game I built on iOS, there are over 100 levels and I'm really proud of the look and feel of the game. "
       - project:
         title: Kelly's Pub & Eatery Website
@@ -103,10 +103,10 @@ skills:
           name: Jekyll, Hugo
           level: 95%
         - skill:
-          name: Node.js, React, Redux
+          name: Node.js, React, React Native, Redux
           level: 90%
         - skill:
-          name: Ruby, Python, Java
+          name: Ruby, Python, Java, PHP
           level: 90%
         - skill:
           name: iOS / Android Development
