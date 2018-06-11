@@ -94,7 +94,7 @@ projects:
         title: Kelly's Pub & Eatery Website
         link: "http://www.kpehotwings.com"
         image: "kpe.png"
-        tagline: "A website I built for my Aunt's restaurant. I used Jekyll along with SCSS to create something simple for them to use!"
+        tagline: "A website I built for a local restaurant. I used Jekyll along with SCSS to create something simple for them to use!"
 
 
 skills:
