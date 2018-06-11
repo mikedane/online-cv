@@ -12,12 +12,23 @@
   {% for project in site.data.data.projects.projects %}
     <div class="item">
 
-      <span class="project-title"><a target="_blank" href="{{ project.link }}">{{ project.title }}</a></span>
+
+
+      <div class="project-title"><a target="_blank" href="{{ project.link }}">{{ project.title }}</a></div>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+      <div class="project-image-container">
+          <a  href="{{ project.link }}" target="_blank">
 
+          <img class="project-image" src="{{site.baseurl}}/assets/images/projects/{{ project.image }}" />
+          </a>
+          <a class="project-image-middle" href="{{ project.link }}" target="_blank">
+              <div class="project-image-middle-text">Go to Site</div>
+          </a>
+      </div>
+      <hr />
     </div><!--//item-->
   {% endfor %}
 

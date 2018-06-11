@@ -67,29 +67,33 @@ studies:
 
 projects:
     title: Projects
-    intro: "I love making websites and apps look 
-     amazing. "
+
     
     projects:
       - project:
         title: Giraffe Academy
         link: "http://www.giraffeacademy.com"
+        image: "ga.png"
         tagline: "A really cool static site where I host hundreds of videos and articles I've produced teaching computer programming. I originally built this using Jekyll, but then switched to Hugo. By far my favorite project I've worked on!"
       - project:
         title: Course Wrap
         link: "http://www.coursewrap.io"
+        image: "cw.png"
         tagline: "A React/Node website I built which uses a web-scraper to grab OpenCourseWare course information from some of the world's best colleges & universities who offer OpenCourseWare content. Course Wrap puts all of these free educational resources in one place, and makes them easily searchable. "
       - project:
         title: Crypto Bear
         link: "http://www.cryptobear.cc"
+        image: "cb.png"
         tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lof of time working on the minimalist design of this site, and I'm really happy with it so far!"
       - project:
         title: Bouncy Ball 
         link: "https://itunes.apple.com/us/app/bouncy-ball/id978835139?ls=1&mt=8"
+        image: "bb.png"
         tagline: "Search 'Bouncy-Ball Mike Dane' on the iOS App Store. This is a fun little game I built on iOS, there are over 100 levels and I'm really proud of the look and feel of the game. "
       - project:
         title: Kelly's Pub & Eatery Website
         link: "http://www.kpehotwings.com"
+        image: "kpe.png"
         tagline: "A website I built for my Aunt's restaurant. I used Jekyll along with SCSS to create something simple for them to use!"
 
 
