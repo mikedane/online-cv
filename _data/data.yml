@@ -84,7 +84,7 @@ projects:
         title: Crypto Bear
         link: "http://www.cryptobear.cc"
         image: "cb.png"
-        tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lof of time working on the minimalist design of this site, and I'm really happy with it so far!"
+        tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lot of time working on the minimalist design of this site, and I'm really happy with it so far!"
       - project:
         title: Bouncy Ball 
         link: "https://itunes.apple.com/us/app/bouncy-ball/id978835139?ls=1&mt=8"
