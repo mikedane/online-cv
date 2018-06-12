@@ -24,9 +24,17 @@
 
           <img class="project-image" src="{{site.baseurl}}/assets/images/projects/{{ project.image }}" />
           </a>
-          <a class="project-image-middle" href="{{ project.link }}" target="_blank">
+          <div class="project-image-middle">
+            <a  href="{{ project.link }}" target="_blank" style="margin-right: 5px; text-decoration: none;">
               <div class="project-image-middle-text">Go to Site</div>
+            </a>
+            {% if project.code %}
+          <a href="{{ project.code }}" target="_blank" style="margin-left: 5px; text-decoration: none;">
+            <div class="project-image-middle-text">View Code</div>
           </a>
+            {% endif %}
+          </div>
+
       </div>
       <hr />
     </div><!--//item-->

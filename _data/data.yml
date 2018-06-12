@@ -29,7 +29,7 @@ sidebar:
           item: Music - Drums, Piano, Guitar
           link:
         - interest:
-          item: Art & Painting
+          item: Web Development
           link:
         - interest:
           item: Eating Pizza
@@ -74,16 +74,19 @@ projects:
         title: Giraffe Academy
         link: "http://www.giraffeacademy.com"
         image: "ga.png"
+        code: "https://www.github.com/giraffeacademy/giraffeacademy.com"
         tagline: "A really cool static site where I host hundreds of videos and articles I've produced teaching computer programming. I originally built this using Jekyll, but then switched to Hugo. By far my favorite project I've worked on!"
       - project:
         title: Course Wrap
         link: "http://www.coursewrap.io"
         image: "cw.png"
+        code: "https://www.github.com/mikedane/course-wrap"
         tagline: "A React/Node website I built which uses a web-scraper to grab OpenCourseWare course information from some of the world's best colleges & universities who offer OpenCourseWare content. Course Wrap puts all of these free educational resources in one place, and makes them easily searchable. "
       - project:
         title: Crypto Bear
         link: "http://www.cryptobear.cc"
         image: "cb.png"
+        code: "https://www.github.com/mikedane/cryptobear"
         tagline: "A live crypto-currency price tracker. You can see prices & tons of other information about popular crypto currencies in real time. I spent a lot of time working on the minimalist design of this site, and I'm really happy with it so far!"
       - project:
         title: Bouncy Ball 
@@ -94,6 +97,7 @@ projects:
         title: Kelly's Pub & Eatery Website
         link: "http://www.kpehotwings.com"
         image: "kpe.png"
+        code: "https://www.github.com/mikedane/kpehotwings.com"
         tagline: "A website I built for a local restaurant. I used Jekyll along with SCSS to create something simple for them to use!"
 
 
