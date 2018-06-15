@@ -36,7 +36,7 @@ sidebar:
           link:
 
 experiences:
-    - role: Founder / Front End Engineer
+    - role: Founder / Web Developer
       time: June 2017 - Present
       company: Giraffe Academy
       details: Website featuring programming & web development tutorials (giraffeacademy.com)<br />
@@ -76,14 +76,10 @@ experiences:
 
 career-profile: 
     title: Welcome!
-    text: Hey! Welcome to my website, my name's Mike. I'm a 24 year old software developer
+    text: Hey! My name's Mike. I'm a 24 year old software developer
      from Chester County PA, and this website should give you an idea of some of the stuff 
-     I've done, and the stuff I'm currently working on! I love programming, and I especially love
-     writing clean and beautiful code that doesn't look like a glob of spaghetti. I've build several
-     full stack web apps, and worked at a few different companies. I really love user interface design,
-     and front end stuff in general! Take a look for yourself and feel free to contact me with any 
-     questions / offers!
-
+     I've done, and the stuff I'm currently working on! You can look through all of my projects, 
+     check out some of my skills and see some of the awesome companies I've worked with!
 
 studies: 
     - education:
