@@ -102,7 +102,7 @@ projects:
         title: Giraffe Academy
         link: "http://www.giraffeacademy.com"
         image: "ga.png"
-        code: "https://www.github.com/giraffeacademy/giraffeacademy.com"
+        code: "https://www.github.com/mikedane/giraffeacademy.com"
         skills: HTML, CSS, JavaScript, Hugo, Material UI, Babel, Gulp, Photoshop
         tagline: "A really cool static site where I host hundreds of videos and articles I've produced teaching computer programming. I originally built this using Jekyll, but then switched to Hugo. By far my favorite project I've worked on!"
       - project:
