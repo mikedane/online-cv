@@ -36,13 +36,16 @@ sidebar:
           link:
 
 experiences:
+    - role: JavaScript Developer
+      time: July 2018 - Present
+      company: Bitovi
+      details: 
     - role: Founder / Web Developer
       time: June 2017 - Present
       company: Giraffe Academy
       details: Website featuring programming & web development tutorials (giraffeacademy.com)<br />
               ●	Created and designed a 400+ page static website with articles and code examples.<br /> 
               ●	Gained experience working with complex build processes using Node.js and Gulp. 
-
     - role: Content Creator
       time: March 2018 - Present
       company: Upskill Courses
