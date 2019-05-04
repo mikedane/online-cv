@@ -1,7 +1,7 @@
 sidebar:
     # Site Settings
     title: Mike Dane | Portfolio
-    url: 'https://www.mikedane.com'
+    url: 'https://mikedane.github.io/portfolio'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -36,14 +36,19 @@ sidebar:
           link:
 
 experiences:
-    - role: JavaScript Developer
+    - role: JavaScript Consultant
       time: July 2018 - Present
       company: Bitovi
-      details: 
+      details: ●	Provide consulting services to industry leading companies including GrubHub and Extreme Networks.
+               ●	Manage the development of Bitovi's training resources website <a href="https://bitovi.com/academy">Bitovi Academy</a>
+    - role: Instructor & Curriculum Developer
+      time: October 2018 - Present
+      company: Codecademy
+      details: ●	Produce high quality training courses and videos for Codecademy's platform
     - role: Founder / Web Developer
       time: June 2017 - Present
-      company: Giraffe Academy
-      details: Website featuring programming & web development tutorials (giraffeacademy.com)<br />
+      company: MikeDane.com
+      details: Website featuring programming & web development tutorials<br />
               ●	Created and designed a 400+ page static website with articles and code examples.<br /> 
               ●	Gained experience working with complex build processes using Node.js and Gulp. 
     - role: Content Creator
@@ -102,8 +107,8 @@ projects:
     title: Projects
     projects:
       - project:
-        title: Giraffe Academy
-        link: "http://www.giraffeacademy.com"
+        title: MikeDane.com
+        link: "http://www.mikedane.com"
         image: "ga.png"
         code: "https://www.github.com/mikedane/giraffeacademy.com"
         skills: HTML, CSS, JavaScript, Hugo, Material UI, Babel, Gulp, Photoshop
@@ -158,6 +163,9 @@ skills:
           name: HTML, CSS, JavaScript
           level: 100%
         - skill:
+          name: Ruby, Python, Java, PHP
+          level: 100%
+        - skill:
           name: Node.js, React, Redux, Express
           level: 100%
         - skill:
@@ -167,9 +175,6 @@ skills:
           name: Jekyll, Hugo
           level: 95%
         - skill:
-          name: Ruby, Python, Java, PHP
-          level: 90%
-        - skill:
           name: iOS / Android Development
           level: 80%
         - skill:
@@ -178,4 +183,4 @@ skills:
 
 
 footer: 
-    text: 'Copyright 2018 - Mike Dane'
+    text: 'Copyright 2019 - Mike Dane'
